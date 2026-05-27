@@ -18,7 +18,7 @@ cd tic-tac-toe-Game
 npm install  
 npm start  
 
-App runs at: http://localhost:3000
+App runs at: https://tic-tac-toe-game-gray-alpha.vercel.app/
 
 ##  Build
 npm run build
